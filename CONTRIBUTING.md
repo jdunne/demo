@@ -11,4 +11,5 @@
 
 2. Make changes on the branch and commit them.
 
-
+    git add CONTRIBUTING.md
+    
