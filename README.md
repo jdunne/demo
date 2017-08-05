@@ -12,3 +12,4 @@ Sample project for demonstrating github features.
 - Change for FE-345
 - Change on master
 - Change for test-1
+- Change for test-2
