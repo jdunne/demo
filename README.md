@@ -22,3 +22,7 @@ Feature 4 is targeted for v3, and was made while changes have been made to v4.
 
 Feature 5 is targeted for v4
 
+## Feature 6
+
+Feature 6 is targeted for v5
+
