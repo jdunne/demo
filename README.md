@@ -25,4 +25,3 @@ Feature 5 is targeted for v4
 ## Feature 6
 
 Feature 6 is targeted for v5
-
